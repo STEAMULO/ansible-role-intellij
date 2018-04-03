@@ -46,5 +46,7 @@ MIT / BSD
 
 Author Information
 ------------------
-Rutger de Knijf
-<rutger@deknijf.com>
+
+Steamulo - www.steamulo.com
+
+Forked from [Rutger de Knijf](https://github.com/rdeknijf)
